@@ -5,7 +5,7 @@ enum class Color {
 }
 
 fun getMnemonic(color: Color) =
-    when(color) {
+    when (color) {
         Color.GREEN -> "Green!"
         Color.RED -> "Red!"
         Color.ORANGE -> "Orange!"

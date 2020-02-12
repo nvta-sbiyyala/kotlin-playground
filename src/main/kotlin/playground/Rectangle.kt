@@ -1,6 +1,6 @@
 package playground
 
-import java.util.*
+import java.util.Random
 
 class Rectangle(private val height: Int, private val width: Int) {
     val isSquare: Boolean
